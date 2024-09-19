@@ -1,0 +1,52 @@
+.body{
+    font-family: "Roboto Condensed"
+    sans-serif
+}
+.center{
+    text-align: center;
+}
+.blue{
+    color: #0691d7;
+}
+.yellow{
+    color: #ffa400;
+    font-size: 36px;
+}
+.p{
+    margin-bottom: 11px;
+    font-size: 17px;
+    line-height: 25px;
+}
+.italic{
+    font-style: italic;
+    font-size: 15px;
+}
+.recept{
+    width: 65%;
+    margin: auto;
+}
+.big-font{
+    font-size: 39px;
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+.left{
+    text-align: left;
+}
+.main-title{
+    font-size: 38px;
+    letter-spacing: 5px;
+    color:white;
+    font-weight: 700;
+
+    background-color: #0691d7;
+    background-image: url(./assets/icon/image/main.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: 400px;
+}
+table{
+    font-size: 16px;
+}
